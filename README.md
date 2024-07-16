@@ -1,4 +1,4 @@
-# s23-06682-L08
+# sse-08
 
 ## Installation
     cd pkg

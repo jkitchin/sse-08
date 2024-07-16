@@ -1,4 +1,4 @@
-from s23oa import Works
+from sse_oa import Works
 
 
 ref_ris = '''TY  - JOUR
