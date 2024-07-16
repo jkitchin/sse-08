@@ -24,6 +24,7 @@ class Works:
         title = self.data['title']
 
         journal = self.data['primary_location']['source']['display_name']
+
         volume = self.data['biblio']['volume']
 
         issue = self.data['biblio']['issue']
