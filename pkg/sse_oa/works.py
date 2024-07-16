@@ -23,7 +23,7 @@ class Works:
 
         title = self.data['title']
 
-        journal = self.data['host_venue']['display_name']
+        journal = self.data['source']['display_name']
         volume = self.data['biblio']['volume']
 
         issue = self.data['biblio']['issue']
